@@ -1,6 +1,6 @@
 import requests
 
-TOKEN = "AQAAAAAUGoLOAADLWxBpwOpsakazlD5giIGCs-M"
+TOKEN = ""
 file_name = "HW8.txt"
 
 class YandexDisk():
